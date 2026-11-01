@@ -1,2 +1,0 @@
-1.0.0
-https://github.com/leomine460-cell/TycoonZero/releases/download/v1.0.0/TycoonZero.zip
